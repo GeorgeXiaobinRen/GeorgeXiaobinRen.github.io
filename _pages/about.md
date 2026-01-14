@@ -51,7 +51,7 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 Publication
+# 📝 Publications
 
 ---
 
