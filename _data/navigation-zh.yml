@@ -1,0 +1,22 @@
+# Chinese page navigation links
+main:
+  - title: "简介"
+    url: "/zh/#about-me"
+
+  - title: "教育经历"
+    url: "/zh/#-xl"
+
+  - title: "科研项目"
+    url: "/zh/#-research"
+
+  - title: "实习经历"
+    url: "/zh/#-xshy"
+
+  - title: "获奖情况"
+    url: "/zh/#-awards"
+
+  - title: "技术技能"
+    url: "/zh/#-skills"
+
+  - title: "语言能力"
+    url: "/zh/#-languages"

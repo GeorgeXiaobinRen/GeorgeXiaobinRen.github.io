@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Mathematics student at the **Chinese University of Hong Kong** (M.S., 2025–2026), advised by [Prof. Benny Y. C. Hon](https://scholar.google.com/citations?user=QO54wjoAAAAJ). My research interests lie in numerical methods for partial differential equations, meshless computational methods, and the application of deep learning to scientific computing.
+I am a Mathematics student at the **Chinese University of Hong Kong** (M.S., 2025–2026). My research interests lie in numerical methods for partial differential equations, meshless computational methods, and the application of deep learning to scientific computing.
 
-I completed my B.S. in Mathematics at **Hunan University** (2021–2025), where I worked with [Prof. Wenfan Yi](https://scholar.google.com/citations?user=YLgF7LsAAAAJ) on deep learning methods for numerical computation as part of a National-level China University Student Innovation Training Program.
+I completed my B.S. in Mathematics at **Hunan University** (2021–2025), where I was guided by [Prof. Wenfan Yi](https://scholar.google.com/citations?user=YLgF7LsAAAAJ) on deep learning methods for numerical computation as part of a National-level China University Student Innovation Training Program.
 
 <span class='anchor' id='-xl'></span>
 
