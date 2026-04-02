@@ -108,5 +108,5 @@ I completed my B.S. in Mathematics at **Hunan University** (2021–2025), where 
 
 - **English** — Fluent (IELTS 7.0, CET-6 580)
 - **Mandarin** — Native
-- **Cantonese** — Basic
 - **Wu dialect** — Native
+- **Cantonese** — Very little
