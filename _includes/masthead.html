@@ -4,13 +4,24 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
+          {% if page.lang == 'zh' %}
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="https://GeorgeXiaobinRen.github.io/" target="_self">
+            <a href="/" target="_self">
+              <img class="svg" src="/images/en.svg" width="20pt">
+              English
+            </a>
+          </li>
+          {% assign nav_data = site.data.navigation-zh.main %}
+          {% else %}
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+            <a href="/zh/" target="_self">
               <img class="svg" src="/images/cn.svg" width="20pt">
               Chinese
             </a>
           </li>
-          {% for link in site.data.navigation.main %}
+          {% assign nav_data = site.data.navigation.main %}
+          {% endif %}
+          {% for link in nav_data %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
