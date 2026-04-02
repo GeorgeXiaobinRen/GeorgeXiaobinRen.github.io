@@ -36,13 +36,16 @@ I completed my B.S. in Mathematics at **Hunan University** (2021–2025), where 
 
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 Publications
+[//]: # (# 📝 Publications)
 
----
+[//]: # ()
+[//]: # (---)
 
-- Papers in preparation (research ongoing). Please check back later.
+[//]: # ()
+[//]: # (- Papers in preparation &#40;research ongoing&#41;. Please check back later.)
 
-<span class='anchor' id='-research'></span>
+[//]: # ()
+[//]: # (<span class='anchor' id='-research'></span>)
 
 # 🔬 Research Projects
 
