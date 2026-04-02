@@ -96,9 +96,10 @@ I completed my B.S. in Mathematics at **Hunan University** (2021–2025), where 
 - **Programming Languages:** Python, MATLAB, R, C++, MySQL
 - **Data Analysis:** NumPy, Pandas, SciPy
 - **Machine Learning:** PyTorch, Scikit-learn
-- **Mathematical Software:** Mathematica, Maple
+
+[//]: # (- **Mathematical Software:** Mathematica, Maple)
 - **Typesetting Tools:** LaTeX, Markdown, Typst, Word
-- **Tools:** Git, Jupyter Notebook, Linux, Docker
+- **Tools:** Git, Jupyter Notebook, Docker
 
 <span class='anchor' id='-languages'></span>
 
