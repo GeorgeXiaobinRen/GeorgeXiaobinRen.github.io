@@ -6,11 +6,17 @@ main:
   - title: "Education"
     url: "/#-xl"
 
-  - title: "Publications"
-    url: "/#-lwzl"
-
-  - title: "Awards"
-    url: "/#-ryjx"
+  - title: "Research Projects"
+    url: "/#-research"
 
   - title: "Internship"
-    url: "/#-gzsx"
+    url: "/#-xshy"
+
+  - title: "Awards & Honors"
+    url: "/#-awards"
+
+  - title: "Technical Skills"
+    url: "/#-skills"
+
+  - title: "Languages"
+    url: "/#-languages"

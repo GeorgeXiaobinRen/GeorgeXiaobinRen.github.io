@@ -34,7 +34,7 @@ I completed my B.S. in Mathematics at **Hunan University** (2021–2025), where 
   - GPA of compulsory courses: 3.46/4.0 (85.44/100)
   - Relevant Courses: Numerical Solution of Differential Equations, Optimization Theory, Numerical Analysis
 
-<span class='anchor' id='-lwzl'></span>
+[//]: # (<span class='anchor' id='-lwzl'></span>)
 
 [//]: # (# 📝 Publications)
 
@@ -45,7 +45,7 @@ I completed my B.S. in Mathematics at **Hunan University** (2021–2025), where 
 [//]: # (- Papers in preparation &#40;research ongoing&#41;. Please check back later.)
 
 [//]: # ()
-[//]: # (<span class='anchor' id='-research'></span>)
+<span class='anchor' id='-research'></span>
 
 # 🔬 Research Projects
 
