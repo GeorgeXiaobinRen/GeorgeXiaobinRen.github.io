@@ -28,7 +28,7 @@ I completed my B.S. in Mathematics at **Hunan University** (2021–2025), where 
 ---
 
 - *Aug. 2025 – Jun. 2026 (expected)*, **M.S. in Mathematics**, Chinese University of Hong Kong, Hong Kong, China
-  - Relevant Courses: Stochastic Analysis, Mathematical Image Processing, Machine Learning, Artificial Intelligence
+  - Relevant Courses: Stochastic Analysis, Mathematical Image Processing, Multivariate Data, Artificial Intelligence
 
 - *Sep. 2021 – Jun. 2025*, **B.S. in Mathematics**, Hunan University (Project 985), Hunan, China
   - GPA of compulsory courses: 3.46/4.0 (85.44/100)
